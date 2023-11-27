@@ -45,4 +45,4 @@ To utilize the framework, follow these steps:
 
 ### Contact
 
-For any questions or feedback, please contact Shashank Rushiya at mailId: shashankrushiya@gmail.com or cell: 8446278818.
+For any questions or feedback, please contact Shashank Rushiya at mailId: shashankrushiya@gmail.com
